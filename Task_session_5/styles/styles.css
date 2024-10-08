@@ -1,0 +1,57 @@
+
+/***** Task one */
+
+nav {
+background : linear-gradient(#3a71e5, #2cc3c5, #6fa5d9);
+height: 100px;
+}
+
+.home {
+  color: rgb(104, 228, 74);
+}
+
+.about {
+  color: beige;
+}
+
+.contact {
+  color: black;
+}
+
+.bg_image {
+  background-image: url(../images/nature.jpg);
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+
+/**** Task Two */
+
+.box {
+  height: 400px;
+  width: 400px;
+  border-top: dotted;
+  border-bottom: double;
+  border-left: dashed;
+  border-right: solid;
+
+}
+
+li {
+  width: 60px;
+  margin: 10px;
+  border: dashed;
+}
+
+/***** Task three */
+
+.shape {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
