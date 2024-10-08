@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+legend {
+  font-family: Poppins, Geneva;
+  font-style: italic;
+  font-weight: 900;
+}
+.info {
+  border-radius: 15px;
+}
+.info input {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.desc {
+  resize: none;
+}
+
+#name {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  color: rgb(182, 39, 68);
+}
+
+.selection {
+  margin: 10px 0;
+}
+
+#courses {
+  border: 3px rgb(0, 0, 0) solid;
+  border-radius: 5px;
+  background: linear-gradient(rgb(226, 215, 171), rgb(177, 160, 43));
+}
+
+.google {
+  display: block;
+ margin: 20px auto;
+ border-radius: 50%;
+}
+
+.boxColors {
+  height: 150px;
+  width: 250px;
+  background-color: rgb(23, 0, 93);
+  font-size: 30px;
+  color: burlywood;
+  padding: 60px;
+  margin: 15px auto;
+  border: 2px groove blue;
+  border-radius: 40px;
+}
